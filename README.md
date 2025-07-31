@@ -6,6 +6,19 @@ iOS notes application built with SwiftUI that provides seamless note-taking with
 
 For this assignment I pushed my capella credentials to Github in public repo for testing purpose (credentials should never be uploaded to github)
 
+## Screenshots
+
+
+<img width="177" height="383" alt="Simulator Screenshot - iPhone 15 Pro - 2025-07-31 at 23 57 03" src="https://github.com/user-attachments/assets/e8f83e84-3a54-48cc-beb1-3a96856ff97b" />
+<img width="177" height="383" alt="Simulator Screenshot - iPhone 15 Pro - 2025-07-31 at 23 57 27" src="https://github.com/user-attachments/assets/a0b497ce-ff6a-4f2e-b62c-cae06dcce3a4" />
+<img width="177" height="383" alt="Simulator Screenshot - iPhone 15 Pro - 2025-07-31 at 23 57 31" src="https://github.com/user-attachments/assets/7d7392e8-6c11-4cbf-8776-58c6523aac50" />
+
+## YouTube Demo
+
+[Watch here](https://youtu.be/3ycznfUqtmY)
+
+[![Watch the video](https://img.youtube.com/vi/3ycznfUqtmY/0.jpg)](https://youtu.be/3ycznfUqtmY)
+
 ## Features
 
 ### Core Functionality
